@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "201972191454",
+    "firebase_url": "https://watchlist-b5fcb.firebaseio.com",
+    "project_id": "watchlist-b5fcb",
+    "storage_bucket": "watchlist-b5fcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201972191454:android:a0e2558708e55a7c",
+        "android_client_info": {
+          "package_name": "com.artzarbo.watchlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201972191454-rvt21o6l9o1536rhl909ora187rdnu3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.artzarbo.watchlist",
+            "certificate_hash": "a005a45de9125b682e7a8b9bd602ba6b3e63591e"
+          }
+        },
+        {
+          "client_id": "201972191454-m9p3vhg7e2997fesd2mjlbmov7o3miem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPgJ16IulcqL1ArLD8B-sQbXhc8u-75n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201972191454-m9p3vhg7e2997fesd2mjlbmov7o3miem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
